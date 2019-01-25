@@ -1,3 +1,5 @@
+require "pry"
+
 def dictionary(long_word)
 short_word
   case (long_word)
@@ -24,3 +26,6 @@ short_word
   end
 short_word
 end
+
+test = dictionary("hello")
+binding.pry
