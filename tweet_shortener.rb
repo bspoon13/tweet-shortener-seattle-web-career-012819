@@ -8,7 +8,7 @@ short_word
   when "two"
     short_word = "2"
   when "too"
-    short_word = "2"  
+    short_word = "2"
   when "four"
     short_word = "4"
   when "for"
