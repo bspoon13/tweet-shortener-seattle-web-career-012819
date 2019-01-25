@@ -1,7 +1,7 @@
 require "pry"
 
 def dictionary(long_word)
-short_word
+short_word = nil
   case (long_word)
   when "hello"
     short_word = "hi"
