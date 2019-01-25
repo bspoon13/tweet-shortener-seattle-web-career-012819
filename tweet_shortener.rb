@@ -21,5 +21,6 @@ short_word
     short_word = "@"
   when "and"
     short_word = "&"
+  end
 short_word
 end
