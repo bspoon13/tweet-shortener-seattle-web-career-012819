@@ -25,7 +25,6 @@ short_word
     short_word = "&"
   end
 short_word
-end
-
-test = dictionary("hello")
 binding.pry
+end
+dictionary("hello")
